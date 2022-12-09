@@ -22,3 +22,16 @@ Blog that talking about new technologies
 ----------------------------------------
 1. [Yeeply](https://fr.yeeply.com/blog/)
 
+
+Youtube Programming Videos
+--------------------------
+1. [Grafikart](https://www.youtube.com/@grafikart/videos)
+2. [CodingNepal](https://www.youtube.com/@CodingNepal/videos)
+3. [FreeCodeCamp](https://www.youtube.com/@freecodecamp/videos)
+4. [Elixir Programmers](https://www.youtube.com/@Elixirprogrammer/videos)
+
+Icons For Design Websites
+-------------------------
+1. [IconScout](https://iconscout.com/)
+
+
