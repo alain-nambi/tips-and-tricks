@@ -35,3 +35,8 @@ Icons For Design Websites
 1. [IconScout](https://iconscout.com/)
 
 
+All Cheat Sheet for programming languages
+-----------------------------------------
+1. [CheetSheets](https://github.com/rstacruz/cheatsheets)
+
+
