@@ -9,10 +9,7 @@ Bonjour,
 
 2. Qu'est ce qui a orienté votre choix vers l'enseignement Français ?
 ------------------------------------------------------------------
-J'ai choisi la France, 
-- Tout d'abord, car la France est un pays qui offre une formation de qualité.
-- Ensuite, le diplôme français est reconnu au niveau international.
-- Enfin, la facilité pour moi de trouver un emploi dans le domaine que j'ai choisi en retournant à Madagascar après mes études en France
+J'ai choisi la France car c'est un pays qui offre un enseignement de qualité et offre de nombreux avantages aux étudiants étrangers, tout aussi favorables qu'aux étudiants français. Aussi parce que je sais qu'après avoir terminé mes études, cela sera reconnu comme un diplôme dans mon pays d'origine. Une éducation complète et enrichissante par l'État et les recruteurs.
 
 3. Quelles sont vos motivations quant aux choix de ses formations ?
 -------------------------------------------------------------------
@@ -54,3 +51,67 @@ Ma sœur et beau-frère qui réside en France sera responsable du financement de
 12. Comptiez-vous travailler en parallèle de vos études ?
 ---------------------------------------------------------
 Je compte trouver un travail à mi-temps pour accumuler les fonds nécessaires à mes études en France. Parce que je sais très bien qu'en France, les étudiants ont le droit de travailler en parallèle.
+
+13. Pourquoi vous postulez pour une Licence 3 sachant que pour l’année en cours vous êtes en Master 1 ?
+-------------------------------------------------------------------------------------------------------
+Je n'ai pas postulé en Master 1 car j'avais recherché les pré-requis pour la plupart des Masters 1 auxquels je souhaitais postuler. Ils demandent d'avoir étudier certains modules que je n'ai pas vus dans mon parcours académique et grâce à la Licence 3 qui me donnera la possibilité d'étudier ces modules avant d'entrer dans le programme de master.
+
+14. Comment comptez-vous vous loger en France ?
+-----------------------------------------------
+Le temps d'avoir une réponse à une demande que j'ai faite au CROUS pour obtenir une chambre les premiers jours. Je compte loger chez ma soeur ou mon beau-père. Mais si la demande sera refusé, je choisirais de louer par l'intermédiaire d'une agence immobilière ou d'une colocation dans le cité universitaire.
+
+15. Avez-vous une idée sur le prix du loyer en France ?
+-------------------------------------------------------
+Pour les logements universitaires fournis par le CROUS, le loyer est généralement de 150 à 350 € par mois, mais les logements du secteur privé sont plus chers que les logements du CROUS. Le loyer d'un studio en dehors de la région parisienne est de 200-400 euros par mois, et le loyer d'un studio en région parisienne est de 400-800 euros par mois.
+
+16. Pensez-vous que vous aurez des problèmes d’intégration en France ?
+----------------------------------------------------------------------
+Je maîtrise mon domaine d'études, je parle et comprend bien le français et j'ai une bonne connaissance de la culture française et de l'histoire française, donc je ne pense pas avoir de mal à m'intégrer en France.
+
+17. Quel est votre projet d'études ?
+------------------------------------
+Mon projet d'étude est de poursuivre mes études supérieures en informatique dans une université en France. Plus précisément, j'envisage d'intégrer la licence en informatique générale. Cette formation correspond à mon niveau d'apprentissage et me permet de consolider et d'enrichir les connaissances acquises au cours de mes études universitaires et également d'acquérir de solides connaissances dans le système d'information.
+
+18. Quels sont les principaux prérequis de cette formation que vous avez sélectionnée ?
+---------------------------------------------------------------------------------------
+- Avoir obtenu un bac scientifique
+- Avoir une appétence pour l'informatique
+- Avoir un TCF B2 acquis ou DELF/DAFL B2.
+
+19. Pourquoi avez-vous choisi de refaire la licence 3 ?
+
+
+20. Quels sont vos qualités ?
+-----------------------------
+Je suis une personne axée sur les objectifs. Quand j'ai un objectif, je fais tout ce qui est en mon pouvoir pour l'atteindre. Je suis aussi très organisée tant dans mes études que dans ma vie quotidienne, et je suis toujours désireuse d'apprendre quelque chose de nouveau.
+
+21. Quels sont vos défauts ?
+----------------------------
+Les gens disent que je suis une personne qui cherche toujours la perfection dans tout ce que je fais. Je suis aussi impatiente et quand je me fixe un objectif, j'ai hâte qu'il soit atteint.
+
+22. Qu’allez-vous faire à votre arrivée en France ?
+---------------------------------------------------
+Le temps d'avoir une réponse à une demande que j'ai faite au CROUS pour obtenir une chambre les premiers jours. Je compte loger chez ma soeur ou mon beau-père. Mais si la demande sera refusé, je choisirais de louer par l'intermédiaire d'une agence immobilière ou d'une colocation dans le cité universitaire.
+
+23. Pour vivre en France, combien vous faut-il par mois ? 
+---------------------------------------------------------
+
+
+IMPORTANT
+---------
+Les questions posées lors d'un entretien sont :
+1. La raison du voyage en France
+2. Le choix des formations
+3. La raison de choix de la formation
+4. Quels sont les pré-requis des formations ?
+5. Avez-vous un diplôme de langue ?
+6. Où allez-vous logé quand vous serez en France ?
+7. Comment comptiez-vous financer vos études ?
+8. Quelles sont les nouveautés que vous constatés par rapport aux formations (matières, ...) ?
+9. Qu'est ce que vous allez faire à la fin de vos études en France ?
+10. Quelles seront les choses apportées par la formation que vous avez choisies pour vous ?
+11. Quel est l'objectif du formation ?
+12. Existe t-il des nouveaux matières ou des matières que vous n'ayez jamais fait auparavant ? Lesquels pour cette formation ?
+13. Avez-vous déja fait des stages ?
+14. Que faites-vous actuellement ?
+
