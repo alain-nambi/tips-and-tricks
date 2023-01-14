@@ -49,3 +49,10 @@ Download Linux Apps
 1. https://snapcraft.io/ (SnapCraft)
 
 
+Download VST & plugins
+----------------------
+1. https://www.sampledrive.in/
+2. https://4download.net/
+
+
+
