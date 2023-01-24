@@ -125,19 +125,19 @@ Le métier de l'informatique est le domaine de toute mes ambitions.
 ---------------------------------------
 - Oui, j'ai des familles dans Cluses et Orléans
 
-25. Quel niveau avez-vous obtenu pour le TCF ou un diplôme comme le DELF et le DALF ?
+<!-- 25. Quel niveau avez-vous obtenu pour le TCF ou un diplôme comme le DELF et le DALF ?
 -------------------------------------------------------------------------------------
 - J'ai passé le Test de Connaissance du Français (TCF), il y a quelques jours et j'attends les résultats du test que je rajouterai mes résultats sous la rubrique concernée dans mon espace personnel dès qu'ils sont disponibles.
 
-- Oui j'ai eu un TCF B2
+- Oui j'ai eu un TCF B2 -->
 
-26. Avez-vous passé le TCF ou le DELF ?
+<!-- 26. Avez-vous passé le TCF ou le DELF ?
 ---------------------------------------
-- Oui, j’ai passé le TCF et j’ai eu un niveau B2
+- Oui, j’ai passé le TCF et j’ai eu un niveau B2 -->
 
-27. Quel niveau de TCF est exigé par les formations que vous avez choisies ?
+<!-- 27. Quel niveau de TCF est exigé par les formations que vous avez choisies ?
 ----------------------------------------------------------------------------
-- La majorité des formations que j’ai choisies exigeant d’avoir au minimum un niveau B2 en Test de Connaissance du Français (TCF) ou équivalent (DALF, DELF, …).
+- La majorité des formations que j’ai choisies exigeant d’avoir au minimum un niveau B2 en Test de Connaissance du Français (TCF) ou équivalent (DALF, DELF, …). -->
 
 IMPORTANT
 ---------
@@ -160,7 +160,7 @@ Les questions posées lors d'un entretien sont :
 
 4. Avez-vous un diplôme de langue ?
 -----------------------------------
-- Pas encore pour le moment, mais je suis déja inscript au exament DELF B2 et TCF au sein de l'Alliance Française.
+- Pas encore pour le moment, mais je suis déja inscrit au exament DELF B2 au sein de l'Alliance Française.
 
 5. Où allez-vous vous logé quand vous serez en France ?
 -------------------------------------------------------
