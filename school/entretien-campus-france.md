@@ -20,7 +20,7 @@ Bonjour,
 4. Quel est votre projet professionnel ?
 ----------------------------------------
 Le métier de l'informatique est le domaine de toute mes ambitions.
-- A court terme => être développeur et d'intégrer une entreprise en tant que Développeur. 
+- A court terme => être développeur et d'intégrer une entreprise en France en tant que Développeur. 
 - A moyen terme => devenir ingénieur informaticien et chef de projet.
 
 
@@ -48,12 +48,12 @@ Le métier de l'informatique est le domaine de toute mes ambitions.
 ------------------------------------------------------------
 - Je suis certes conscient de la difficulté d'étudier en France mais je suis quelqu'un de persévérant et je ne renonce pas facilement. 
 - Etudier en France est pour moi un rêve et je ferai en sorte de faire beaucoup de travail pour y parvenir et réussir mes études en France.  
-- Mes résultats universitaires en font.
+- Mes résultats universitaires en font le preuve.
 
 10. Que pensez-vous faire après avoir terminé vos études en France ?
 --------------------------------------------------------------------
 - Je compte trouver un emploi en France pour acquérir de l'expérience professionnelle de très bonne qualité dans le domaine de l'informatique. 
-- Puis je compte rentrer à Madagascar avec mon expérience professionnelle afin de participer à son développement économique et technologique de mon pays.
+- Puis je compte rentrer à Madagascar avec mon expérience professionnelle afin de participer à son développement économique et technologique.
 
 11. Comment comptez-vous financer vos études ?
 ----------------------------------------------
@@ -66,39 +66,39 @@ Le métier de l'informatique est le domaine de toute mes ambitions.
 
 13. Pourquoi vous postulez pour une Licence 3 sachant que pour l’année en cours vous êtes en Master 1 ?
 -------------------------------------------------------------------------------------------------------
-- Je postule en L3 car les pre-requis pour la candidature en M1 ne sont pas complêtement acquises par rapport à mon parcours universitaire et mes connaissances.
-
-14. Comment comptez-vous vous loger en France ?
+- Je postule en L3 car les pre-requis pour la candidature en M1 ne me soient pas complêtement acquises par rapport à mon parcours universitaire, mes connaissances et mes compétences.
+  
+14.  Comment comptez-vous vous loger en France ?
 -----------------------------------------------
 - Le temps d'avoir une réponse à une demande que j'ai faite au CROUS pour obtenir une chambre les premiers jours. 
 - Je compte loger chez ma soeur ou mon beau-père. Mais si la demande sera refusé, je choisirais de louer par l'intermédiaire d'une agence immobilière ou d'une colocation dans le cité universitaire.
 
-15. Avez-vous une idée sur le prix du loyer en France ?
+15.  Avez-vous une idée sur le prix du loyer en France ?
 -------------------------------------------------------
 - 150 à 400 € par mois pour les logements fournies par CROUS
 - 200 à 500 € par mois pour le loyer d'un studio en dehors de la région parisienne
 - Et 450 à 900 € par mois pour le loyer d'un studio dans la région parisienne.
 
-16. Pensez-vous que vous aurez des problèmes d’intégration en France ?
+16.  Pensez-vous que vous aurez des problèmes d’intégration en France ?
 ----------------------------------------------------------------------
 - Je maîtrise mon domaine d'études.
 - Je peux parler et comprendre la langue française, donc je ne pense pas avoir de mal à m'intégrer en France.
 
-17. Quel est votre projet d'études ?
+17.  Quel est votre projet d'études ?
 ------------------------------------
 - Poursuivre mes études en France
 - Plus précisement, d'intégrer la licence en informatique
-- Puis de m'inscrire en Master afin de consolider et d'enrichir mes connaissance et également d'acquérir la formation complète pour devenir réaliser mon projet professionnelle
+- Puis de m'inscrire en Master afin de consolider et d'enrichir mes connaissance et également d'acquérir la formation complète pour réaliser mon projet professionnel
 
-18. Quels sont les principaux prérequis de cette formation que vous avez sélectionnée ?
+1.   Quels sont les principaux prérequis de cette formation que vous avez sélectionnée ?
 ---------------------------------------------------------------------------------------
 - Avoir obtenu un bac scientifique
 - Avoir une appétence pour l'informatique
 - Avoir un TCF B2 acquis ou DELF/DAFL B2.
 
-19. Pourquoi avez-vous choisi de refaire la licence 3 ?
+1.   Pourquoi avez-vous choisi de refaire la licence 3 ?
 -------------------------------------------------------
-- Je postule en L3 car les pre-requis pour la candidature en M1 ne sont pas complêtement acquises par rapport à mon parcours universitaire et mes connaissances.
+- Je postule en L3 car les pre-requis pour la candidature en M1 ne me soient pas complêtement acquises par rapport à mon parcours universitaire, mes connaissances et mes compétences.
 
 
 20. Quels sont vos qualités ?
@@ -123,7 +123,7 @@ Le métier de l'informatique est le domaine de toute mes ambitions.
 
 24. Avez-vous de la famille en France ?
 ---------------------------------------
-- Oui, j'ai des familles dans Cluses et Orléans
+- Oui, j'ai des familles en France dans la commune de Cluses et Orléans
 
 <!-- 25. Quel niveau avez-vous obtenu pour le TCF ou un diplôme comme le DELF et le DALF ?
 -------------------------------------------------------------------------------------
@@ -160,7 +160,7 @@ Les questions posées lors d'un entretien sont :
 
 4. Avez-vous un diplôme de langue ?
 -----------------------------------
-- Pas encore pour le moment, mais je suis déja inscrit au exament DELF B2 au sein de l'Alliance Française.
+- Pas encore pour le moment, mais je suis déja inscrit au exament DELF B2 au sein de l'Alliance Française Madagascar
 
 5. Où allez-vous vous logé quand vous serez en France ?
 -------------------------------------------------------
@@ -175,28 +175,28 @@ Les questions posées lors d'un entretien sont :
 ----------------------------------------------------------------
 - ****************************************
 
-9. Qu'est ce que vous allez faire à la fin de vos études en France ?
+8. Qu'est ce que vous allez faire à la fin de vos études en France ?
 --------------------------------------------------------------------
 - Je compte trouver un emploi en France pour acquérir de l'expérience professionnelle de très bonne qualité dans le domaine de l'informatique. 
-- Puis je compte rentrer à Madagascar avec mon expérience professionnelle afin de participer à son développement économique et technologique de mon pays.
+- Puis je compte rentrer à Madagascar avec mon expérience professionnelle afin de participer à son développement économique et technologique.
 
-10. Quelles seront les choses apportées par la formation que vous avez choisies pour vous ?
+9. Quelles seront les choses apportées par la formation que vous avez choisies pour vous ?
 - *********************************
 
 
-11. Quel est l'objectif du formation ?
-- C'est de fournir les éléments essentiels et les connaissances nécessaires pour permettre d'intégrer le Master 1 et de devenir Ingénieur Informaticien.
+10. Quel est l'objectif du formation ?
+- C'est de fournir les éléments essentiels et les connaissances nécessaires pour permettre d'intégrer le Master 1 afin de mener à bien le projet professionnel de devenir ingénieur informaticien.
 
-12. Existe t-il des nouveaux matières ou des matières que vous n'ayez jamais fait auparavant ? Lesquels pour cette formation ?
+11. Existe t-il des nouveaux matières ou des matières que vous n'ayez jamais fait auparavant ? Lesquels pour cette formation ?
 - *********************************
 
-13. Avez-vous déja fait des stages ?
-- Oui, j'ai fait en total 03 stages 
-- BNI Madagascar
-- Hazenfield
-- MGBI
+12. Avez-vous déja fait des stages ?
+- Oui, j'ai fait en total 03 stages dans différentes entreprises
+- BNI Madagascar (Stage)
+- Hazenfield (Stage en tant que testeur qualité)
+- MGBI (Stage en tant que développeur)
 
-14. Que faites-vous actuellement ?
-- Développeur à MGBI
+13. Que faites-vous actuellement ?
+- Développeur au sein MGBI
 - Etudiant au CNTEMAD
 
