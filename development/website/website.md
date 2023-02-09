@@ -54,5 +54,11 @@ Download VST & plugins
 1. https://www.sampledrive.in/
 2. https://4download.net/
 
+Tools for automations
+---------------------
+1. N8N
+2. Integrommat
+3. Uncode School
+
 
 

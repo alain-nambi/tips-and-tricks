@@ -17,13 +17,12 @@ defmodule FileMover do
     unauthorized_extensions = ["ex", "rar", "zip", "git"]
 
     # Get list of all files in directory
-    files = 
-      File.ls!(directory)
+    files = File.ls!(directory)
 
     # For each file, determine extension and create new subdirectory
     for file <- files do
       # Get all extensions without dots (.)
-      extension = 
+      extension =
         Path.extname(file)
         |> String.split(".")
         |> Enum.at(1)
@@ -42,4 +41,3 @@ defmodule FileMover do
     end
   end
 end
-
