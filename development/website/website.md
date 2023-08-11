@@ -34,6 +34,10 @@ Icons For Design Websites
 -------------------------
 1. https://iconscout.com/
 
+Icons For Github Badges
+-----------------------
+1. https://dev.to/envoy_/150-badges-for-github-pnk
+
 
 All Cheat Sheet for programming languages
 -----------------------------------------
